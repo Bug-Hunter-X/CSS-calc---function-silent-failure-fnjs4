@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle issue with the CSS `calc()` function.  Incorrect syntax or unexpected whitespace within the `calc()` expression can lead to the entire expression being ignored silently by the browser, resulting in unexpected layout behavior. The `bug.css` file contains the problematic code, while `bugSolution.css` provides the corrected version.
